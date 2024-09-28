@@ -1,3 +1,5 @@
+Builds/camerascene_20240809/build/obj/il2cppOutputProject/ARM64/Release/buildstate/v9py/GameAssembly.pdb filter=lfs diff=lfs merge=lfs -text
+Builds/camerascene_20240809/build/obj/Mahjong-Support/ARM64/Release/Symbols/Mahjong-Support_1.0.0.0_ARM64.appxsym filter=lfs diff=lfs merge=lfs -text
 *.gitignore filter=lfs diff=lfs merge=lfs -text
 *.vsconfig filter=lfs diff=lfs merge=lfs -text
 *.csproj filter=lfs diff=lfs merge=lfs -text
